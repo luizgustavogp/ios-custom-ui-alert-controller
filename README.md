@@ -9,7 +9,7 @@ Easy way to create you own UIAlertController
 
 
 ## Motivation
-One of the main objectives of this project is the possibility to customize Alerts in Swift. ** Feel free to customize it. **
+One of the main objectives of this project is the possibility to customize Alerts in Swift. **Feel free to customize it.**
 
 ## How to use
 
